@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Yousef0Saleh", "_blank")
+            window.open("https://github.com/Yousef0Saleh/sumz", "_blank")
           }
           className='black_btn'
         >
